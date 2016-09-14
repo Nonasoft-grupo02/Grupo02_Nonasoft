@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nonasoft es una aplicacion que te ayudara, mediante tutoriales didacticos, aprender el manejo basico de tu celular."
-        android:textSize="20sp"
+        android:textSize="19sp"
         android:textColor="#000"
         android:id="@+id/textView"
         android:textAlignment="center"

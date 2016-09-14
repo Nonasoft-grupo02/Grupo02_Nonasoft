@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Grupo2_DesarrollodeSoftware.iml" filepath="$PROJECT_DIR$/Grupo2_DesarrollodeSoftware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrupoII_Appnonasoft.iml" filepath="$PROJECT_DIR$/GrupoII_Appnonasoft.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
