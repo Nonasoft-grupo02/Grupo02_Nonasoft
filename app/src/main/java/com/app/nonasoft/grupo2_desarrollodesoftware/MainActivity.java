@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.app.nonasoft.grupo2_desarrollodesoftware.Activities.IndexViewActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     Button btnComenzar;

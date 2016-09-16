@@ -4,12 +4,13 @@
     <string name="entendido">entendido</string>
     <string name="este_es_un_nuevo_tutorial">Este es un nuevo tutorial</string>
     <string name="comenzar">comenzar</string>
-    <string name="Nonasoft" />
+    <string name="Nonasoft">Nonasoft</string>
     <string name="title_activity_navigation">navigation</string>
-
+    <string name="bienvenida">Bienvenido</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
+    <string name="desafio">¡LA NONA TE DESAFIA!</string>
+    <string name="jugar">JUGAR</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_tutorial_part">tutorialPart</string>
 </resources>

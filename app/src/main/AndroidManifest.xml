@@ -15,9 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!--Declaracion de activity -->
-        <activity android:name=".IndexViewActivity"></activity>
-        <activity android:name=".Menu"></activity>
+        <!-- Declaracion de activity -->
+        <activity
+            android:name=".Activities.IndexViewActivity"
+            android:label="@string/Nonasoft" />
+        <activity
+            android:name=".Activities.SegundaActivity"
+            android:label="@string/bienvenida" />
+        <activity android:name=".Activities.Menu" />
         <!--
      ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
