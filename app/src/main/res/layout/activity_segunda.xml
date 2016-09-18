@@ -36,7 +36,7 @@
 
                         <ExpandableListView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="match_parent"
                             android:id="@+id/expandableListView1"/>
                     </LinearLayout>
 
@@ -48,7 +48,7 @@
 
                         <ExpandableListView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="match_parent"
                             android:id="@+id/expandableListView2"/>
                        </LinearLayout>
 
@@ -60,7 +60,7 @@
 
                         <ExpandableListView
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="match_parent"
                             android:id="@+id/expandableListView3"/>
                     </LinearLayout>
 
@@ -68,10 +68,11 @@
 
         </LinearLayout>
     </TabHost>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1.99"
+        android:layout_weight="1.78"
         android:orientation="vertical"
         android:weightSum="1">
         <TextView
@@ -96,7 +97,7 @@
     </LinearLayout>
 
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="366dp"
         android:layout_height="wrap_content"
         android:textSize="35sp"
         android:textStyle="bold"
@@ -105,8 +106,11 @@
         android:id="@+id/button2"
         android:focusableInTouchMode="false"
         android:gravity="center_horizontal"
-        android:background="@drawable/abc_list_longpressed_holo"
-        android:layout_gravity="center_horizontal" />
+        android:background="@drawable/pressed_button"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="5dp" />
 
 
 </LinearLayout>

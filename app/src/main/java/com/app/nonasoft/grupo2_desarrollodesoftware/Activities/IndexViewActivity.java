@@ -35,7 +35,7 @@ public class IndexViewActivity extends Activity {
         btnRegistrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent btnComenzar = new Intent(IndexViewActivity.this, SegundaActivity.class);
+                Intent btnComenzar = new Intent(IndexViewActivity.this, IntroductionOneActivity.class);
                 startActivity(btnComenzar);
             }
         });

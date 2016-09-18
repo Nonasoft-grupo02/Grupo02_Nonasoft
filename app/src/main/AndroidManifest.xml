@@ -31,6 +31,9 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
+        <activity android:name=".Activities.IntroductionOneActivity" />
+        <activity android:name=".Activities.IntroductionTwoActivity" />
+        <activity android:name=".Activities.IntroductionThreeActivity"></activity>
     </application>
 
 </manifest>
