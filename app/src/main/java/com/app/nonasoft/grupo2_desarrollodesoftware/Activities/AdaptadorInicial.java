@@ -66,9 +66,9 @@ public class AdaptadorInicial extends BaseExpandableListAdapter{
     public View getGroupView(int groupPosition, boolean isExpanded, View convertView, ViewGroup parent) {
         TextView tv = new TextView(contexto);
         tv.setText(this.padrea_inicial[groupPosition]);
-        tv.setTextSize(20);
-        tv.setBackgroundColor(Color.parseColor("#E6E6E6"));
-        tv.setPadding(40,0,0,0);
+        tv.setTextSize(25);
+        tv.setBackgroundColor(Color.parseColor("#C8EAFF"));
+        tv.setPadding(60,0,0,0);
 
         return tv;
     }
